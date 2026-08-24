@@ -32,3 +32,6 @@ An interactive Python data visualization web application built with **Streamlit*
 ```bash
 git clone [https://github.com/Marjan-Akhtar2/WhatsApp-Chat-Analyzer.git](https://github.com/Marjan-Akhtar2/WhatsApp-Chat-Analyzer.git)
 cd WhatsApp-Chat-Analyzer
+
+## Live Demo
+🔗 **Live Web App:** [Click Here to View App](https://marjan-akhtar2-whatsapp-chat-analyzer-app-voj57c.streamlit.app)
